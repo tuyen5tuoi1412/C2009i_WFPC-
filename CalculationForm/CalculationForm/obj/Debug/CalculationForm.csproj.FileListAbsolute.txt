@@ -1,0 +1,11 @@
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\bin\Debug\CalculationForm.exe.config
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\bin\Debug\CalculationForm.exe
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\bin\Debug\CalculationForm.pdb
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\obj\Debug\CalculationForm.csproj.AssemblyReference.cache
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\obj\Debug\CalculationForm.csproj.SuggestedBindingRedirects.cache
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\obj\Debug\CalculationForm.Form1.resources
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\obj\Debug\CalculationForm.Properties.Resources.resources
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\obj\Debug\CalculationForm.csproj.GenerateResource.cache
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\obj\Debug\CalculationForm.csproj.CoreCompileInputs.cache
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\obj\Debug\CalculationForm.exe
+D:\WFPC#\13-12-2021\CalculationForm\CalculationForm\obj\Debug\CalculationForm.pdb
