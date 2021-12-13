@@ -1,0 +1,11 @@
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.SuggestedBindingRedirects.cache
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\obj\Debug\LoginApp.Form1.resources
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+D:\WFPC#\13-12-2021\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
